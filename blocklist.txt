@@ -1,5 +1,5 @@
 # infostation
 0.0.0.0 ep1.infostation.digital
-0.0.0.0 *.infostation.digital
+0.0.0.0 infostation.digital
 ||infostation.digital^
 
