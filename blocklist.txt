@@ -2,5 +2,5 @@
 ||infostation.digital^
 
 # CoC
-||supercell.com^
-||clashofclans.com^
+# ||supercell.com^
+# ||clashofclans.com^
