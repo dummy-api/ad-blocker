@@ -1,6 +1,32 @@
-# infostation
+# Infostation
 ||infostation.digital^
 
 # CoC
-# ||supercell.com^
-# ||clashofclans.com^
+||supercell.com^
+||clashofclans.com^
+
+# PUBG
+||igamecj.com^
+||pubgameshowtime.com^
+||vasdgame.com^
+||pubg.com^
+||pubg.net^
+||pubgmobile.com^
+||pubgesports.com^
+||pubgstore.com^
+||pubgstatstistics.com^
+||pubgupdate.com^
+||pubglite.com^
+||pubgforums.com^
+||pubgtournament.com^
+||pubgcommunity.com^
+||pubgcheats.com^
+||twimg.com^
+||gpubgm.com^
+||proximabeta.com^
+||gcloudcs.com^
+||uc.cn^
+||onezapp.com^
+||amsoveasea.com^
+||anticheatexpert.com^
+||gjacky.com^
