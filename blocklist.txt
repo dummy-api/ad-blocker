@@ -29,3 +29,8 @@
 ||amsoveasea.com^
 ||anticheatexpert.com^
 ||gjacky.com^
+
+# Konami
+||konami.net^
+||konami.com^
+||eFOOTBALLHUB.net^
